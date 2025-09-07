@@ -4,11 +4,11 @@
 
 The AI Standards Foundation exists to establish a clear baseline of trustworthiness, usability, and accountability for AI systems. These are not aspirational goals—they are the minimum requirements for AI to serve people safely and effectively.
 
-## 🎯 Our Mission
+## Our Mission
 
 We hold that every AI system must meet a clear baseline of trustworthiness, usability, and accountability. Our standards ensure AI serves people, not the other way around.
 
-## 📋 Core Standards
+## Core Standards
 
 Our five foundational principles form the backbone of trustworthy AI:
 
@@ -20,7 +20,7 @@ Our five foundational principles form the backbone of trustworthy AI:
 
 [**View All Standards**](/docs/standards/overview.md) | [**Read Our Manifesto**](/docs/foundation/manifesto.md)
 
-## 🚀 Quick Start
+## Quick Start
 
 ### For AI Developers
 1. Review the [standards overview](/docs/standards/overview.md) to understand our principles
@@ -40,7 +40,7 @@ Our five foundational principles form the backbone of trustworthy AI:
 3. Consider how standards apply to your domain
 4. Contribute research and case studies
 
-## 📚 Documentation Structure
+## Documentation Structure
 
 ```
 docs/
@@ -56,7 +56,7 @@ docs/
     └── human-first.md        # Human-first design
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from developers, researchers, policymakers, and anyone passionate about trustworthy AI.
 
@@ -75,7 +75,7 @@ We welcome contributions from developers, researchers, policymakers, and anyone 
 
 [**Read our full contributing guide**](/docs/foundation/contributing.md)
 
-## 📊 Impact & Adoption
+## Impact & Adoption
 
 Our standards are designed to be:
 - **Practical**: Clear, actionable guidance for real-world implementation
@@ -83,28 +83,28 @@ Our standards are designed to be:
 - **Measurable**: Specific evaluation criteria and thresholds
 - **Inclusive**: Accessible to diverse audiences and use cases
 
-## 🔗 Resources
+## Resources
 
 - **[Standards Index](index.json)** — Machine-readable index of all documentation
 - **[License](LICENSE)** — CC BY 4.0 (attribution required)
 - **[Issues](https://github.com/your-org/ai-standards-docs/issues)** — Report bugs or request features
 - **[Discussions](https://github.com/your-org/ai-standards-docs/discussions)** — Community conversations
 
-## 📄 License
+## License
 
 This work is licensed under [Creative Commons Attribution 4.0 International](LICENSE). You are free to:
 - Share and adapt the material
 - Use for commercial purposes
 - **Attribution required** — You must give appropriate credit
 
-## 🌟 Recognition
+## Recognition
 
 We recognize contributors in:
 - Release notes for significant contributions
 - Documentation acknowledgments
 - Community highlights for exceptional work
 
-## 📞 Contact & Support
+## Contact & Support
 
 - **Issues**: [GitHub Issues](https://github.com/your-org/ai-standards-docs/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-org/ai-standards-docs/discussions)
