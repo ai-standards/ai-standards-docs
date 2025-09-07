@@ -1,0 +1,44 @@
+{
+  "docs": [
+    {
+      "title": "The AI Standards Manifesto",
+      "path": "docs/foundation/manifesto.md",
+      "description": "The foundational manifesto establishing the AI Standards Foundation's principles for trustworthy, usable, and accountable AI systems. Sets out non-negotiable standards including clarity, reliability, transparency, accountability, and human-first design."
+    },
+    {
+      "title": "Contributing to AI Standards",
+      "path": "docs/foundation/contributing.md",
+      "description": "A comprehensive guide for contributors explaining how to create issues for feature requests, submit pull requests, and follow the project's contribution process. Includes content guidelines, code of conduct, and recognition policies."
+    },
+    {
+      "title": "AI Standards",
+      "path": "docs/standards",
+      "description": "A comprehensive overview of the five core AI standards: Clarity over confusion, Reliability over chance, Transparency over obscurity, Accountability over excuses, and Human-first design. Provides brief descriptions of each standard and their importance."
+    },
+    {
+      "title": "Accountability over Excuses",
+      "path": "docs/standards/accountability.md",
+      "description": "Establishes that when AI fails, responsibility must be traceable. Covers governance assignment, redress mechanisms, audit requirements, and evaluation criteria to ensure clear accountability structures in AI systems."
+    },
+    {
+      "title": "Clarity over Confusion",
+      "path": "docs/standards/clarity.md",
+      "description": "Ensures AI systems communicate their limits and capabilities plainly. Includes requirements for capabilities disclosure, UI disclaimers, support data publication, and marketing accuracy to prevent user confusion and misuse."
+    },
+    {
+      "title": "Human-First Design",
+      "path": "docs/standards/human-first.md",
+      "description": "Ensures AI is built to empower human agency rather than replace it. Covers accessibility compliance, user override capabilities, inclusive testing, and ethical review processes to prioritize human welfare and dignity."
+    },
+    {
+      "title": "Reliability over Chance",
+      "path": "docs/standards/reliability.md",
+      "description": "Requires AI tools to perform consistently, not just occasionally. Addresses deterministic inference, regression testing, consistency metrics, fallback mechanisms, and monitoring to ensure dependable AI performance."
+    },
+    {
+      "title": "Transparency over Obscurity",
+      "path": "docs/standards/transparency.md",
+      "description": "Ensures users understand what drives AI outcomes rather than facing a black box. Covers model documentation, confidence reporting, auditability, and explainability features to provide visibility into AI decision-making processes."
+    }
+  ]
+}
