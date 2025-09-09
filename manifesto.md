@@ -14,7 +14,7 @@ This manifesto sets out the principles we consider non-negotiable:
 - **[Accountability over excuses](/standards/accountability)** — When AI fails, the responsibility must be traceable.  
 - **[Human-first design](/standards/human-first)** — Standards serve people, not machines.
 
-[View All Standards](/standards/overview.md)
+[View All Standards](/standards/index.md)
 
 These principles are our foundation. They will evolve as the field evolves—but they will not weaken.
 
