@@ -12,24 +12,24 @@ We hold that every AI system must meet a clear baseline of trustworthiness, usab
 
 Our five foundational principles form the backbone of trustworthy AI:
 
-- **[Clarity over Confusion](/docs/standards/clarity.md)** — AI systems must communicate their limits and capabilities plainly
-- **[Reliability over Chance](/docs/standards/reliability.md)** — Tools must perform consistently, not just occasionally  
-- **[Transparency over Obscurity](/docs/standards/transparency.md)** — Users should understand what drives outcomes, not face a black box
-- **[Accountability over Excuses](/docs/standards/accountability.md)** — When AI fails, the responsibility must be traceable
-- **[Human-First Design](/docs/standards/human-first.md)** — Standards serve people, not machines
+- **[Clarity over Confusion](/standards/clarity.md)** — AI systems must communicate their limits and capabilities plainly
+- **[Reliability over Chance](/standards/reliability.md)** — Tools must perform consistently, not just occasionally  
+- **[Transparency over Obscurity](/standards/transparency.md)** — Users should understand what drives outcomes, not face a black box
+- **[Accountability over Excuses](/standards/accountability.md)** — When AI fails, the responsibility must be traceable
+- **[Human-First Design](/standards/human-first.md)** — Standards serve people, not machines
 
-[**View All Standards**](/docs/standards/overview.md) | [**Read Our Manifesto**](/docs/foundation/manifesto.md)
+[**View All Standards**](/standards/overview.md) | [**Read Our Manifesto**](/foundation/manifesto.md)
 
 ## Quick Start
 
 ### For AI Developers
-1. Review the [standards overview](/docs/standards/overview.md) to understand our principles
+1. Review the [standards overview](/standards/overview.md) to understand our principles
 2. Choose relevant standards for your use case
 3. Implement the recommended practices and evaluation criteria
 4. Document your compliance and share your experience
 
 ### For Organizations
-1. Start with the [manifesto](/docs/foundation/manifesto.md) to understand our philosophy
+1. Start with the [manifesto](/foundation/manifesto.md) to understand our philosophy
 2. Assess your current AI systems against our standards
 3. Create implementation plans for gaps
 4. Establish governance structures for ongoing compliance
@@ -64,7 +64,7 @@ We welcome contributions from developers, researchers, policymakers, and anyone 
 1. **Create an issue** for feature requests or improvements
 2. **Fork the repository** and make your changes
 3. **Submit a pull request** with clear descriptions
-4. **Follow our guidelines** in the [contributing guide](/docs/foundation/contributing.md)
+4. **Follow our guidelines** in the [contributing guide](/foundation/contributing.md)
 
 **Types of contributions we need:**
 - New standards proposals
@@ -73,7 +73,7 @@ We welcome contributions from developers, researchers, policymakers, and anyone 
 - Documentation improvements
 - Translation and localization
 
-[**Read our full contributing guide**](/docs/foundation/contributing.md)
+[**Read our full contributing guide**](/foundation/contributing.md)
 
 ## Impact & Adoption
 
