@@ -138,7 +138,7 @@ We are committed to providing a welcoming and inclusive environment for all cont
 
 - Review existing issues and PRs for context
 - Check the [AI Standards Overview](/standards/index.md) for project scope
-- Read the [Manifesto](/foundation/manifesto.md) for our principles
+- Read the [Manifesto](/manifesto.md) for our principles
 
 ## Recognition
 
